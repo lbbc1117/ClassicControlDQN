@@ -11,6 +11,7 @@ The acrobot system includes two joints and two links, where the joint between th
 
 ## Installation Dependencies:
 * Python 2.7
+* Numpy
 * TensorFlow 0.8
 * gym
 
